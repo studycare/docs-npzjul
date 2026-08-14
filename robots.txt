@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-cfchiq.idncuan.xyz/sitemap.xml
